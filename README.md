@@ -2,6 +2,9 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 </br>
+![Python](https://img.shields.io/badge/Python-007396.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-007396.svg?&style=for-the-badge&logo=Flask&logoColor=white)
+</br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4479A1.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 </br>
